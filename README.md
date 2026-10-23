@@ -3,7 +3,7 @@
 > Reto: **generar un modelo de inteligencia artificial de Machine Learning**.
 > Dataset: *Pima Indians Diabetes Database* — 768 registros, 8 variables clínicas, variable objetivo binaria.
 
-**Autor:** Equipo JUAN ANTONIO RAMIREZ ESCAMILLA, MANUEL DE JESUS RAMIRO VELAZQUEZ TAPIA, EDUARDO ABURTO ANGULO, JUAN SINUE MONTENEGRO VALLEJO
+**Autor:** Equipo JUAN ANTONIO RAMIREZ ESCAMILLA, MANUEL DE J. R. VELAZQUEZ TAPIA, EDUARDO ABURTO ANGULO, JUAN SINUE MONTENEGRO VALLEJO
 **Programa:** MASTER en Inteligencia Artificial, Universidad Tecmilenio · Octubre 2026
 
 ---
