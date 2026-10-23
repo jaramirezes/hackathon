@@ -3,7 +3,7 @@
 > Reto: **generar un modelo de inteligencia artificial de Machine Learning**.
 > Dataset: *Pima Indians Diabetes Database* — 768 registros, 8 variables clínicas, variable objetivo binaria.
 
-**Autor:** Eduardo Aburto Angulo · Matrícula AL07182743
+**Autor:** Equipo SALA 2: JUAN ANTONIO RAMIREZ, MANUEL DE JESUS RAMIRO VELAZQUEZ TAPIA, EDUARDO ABURTO ANGULO, JUAN S.
 **Programa:** Maestría en Inteligencia Artificial, Universidad Tecmilenio · Octubre 2026
 
 ---
