@@ -4,7 +4,7 @@
 > Dataset: *Pima Indians Diabetes Database* — 768 registros, 8 variables clínicas, variable objetivo binaria.
 
 **Autor:** Equipo JUAN ANTONIO RAMIREZ ESCAMILLA, MANUEL DE JESUS RAMIRO VELAZQUEZ TAPIA, EDUARDO ABURTO ANGULO, JUAN SINUE MONTENEGRO VALLEJO
-**Programa:** Maestría en Inteligencia Artificial, Universidad Tecmilenio · Octubre 2026
+**Programa:** MASTER en Inteligencia Artificial, Universidad Tecmilenio · Octubre 2026
 
 ---
 
