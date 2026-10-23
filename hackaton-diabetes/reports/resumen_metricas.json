@@ -1,0 +1,21 @@
+{
+  "modelo_final": "Regresión Logística",
+  "hiperparametros": {
+    "clasificador__C": "0.5",
+    "clasificador__penalty": "l2"
+  },
+  "umbral_tamizaje": 0.35,
+  "roc_auc_validacion_cruzada": 0.845,
+  "prueba": {
+    "Exactitud": 0.7273,
+    "Precisión": 0.5714,
+    "Recall": 0.8889,
+    "F1": 0.6957,
+    "Especificidad": 0.64,
+    "VPN": 0.9143,
+    "ROC-AUC": 0.8126,
+    "PR-AUC": 0.6728
+  },
+  "n_entrenamiento": 614,
+  "n_prueba": 154
+}

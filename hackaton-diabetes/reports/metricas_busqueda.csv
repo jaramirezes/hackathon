@@ -1,0 +1,3 @@
+Modelo,ROC-AUC,F1,Recall,Precisión,Mejores parámetros
+Regresión Logística,0.845,0.6724,0.701,0.6486,"{'clasificador__C': 0.5, 'clasificador__penalty': 'l2'}"
+Random Forest,0.8417,0.6925,0.7618,0.6357,"{'clasificador__max_depth': 4, 'clasificador__min_samples_leaf': 6, 'clasificador__n_estimators': 300}"

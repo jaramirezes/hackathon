@@ -1,0 +1,3 @@
+Operación,Umbral,Exactitud,Precisión,Recall,F1,Especificidad,VPN,ROC-AUC,PR-AUC,VP,FP,FN,VN
+Umbral por defecto,0.5,0.7338,0.6032,0.7037,0.6496,0.75,0.8242,0.8126,0.6728,38,25,16,75
+Umbral de tamizaje,0.35,0.7273,0.5714,0.8889,0.6957,0.64,0.9143,0.8126,0.6728,48,36,6,64
